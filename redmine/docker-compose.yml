@@ -1,4 +1,4 @@
-postgresql:
+mysql:
   image: sameersbn/mysql:latest
   environment:
     - DB_USER=redmine
